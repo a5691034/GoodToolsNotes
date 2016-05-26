@@ -14,3 +14,5 @@
 *https://github.com/iterrypeng/PYFMDB*<br>
 -**ZYCornerRadius (避免为UIImageView设置圆角时触发离屏渲染所带来的性能损耗)**<br>
 *https://github.com/liuzhiyi1992/ZYCornerRadius*<br>
+-**CYLTabBarController【低耦合集成TabBarController】**<br>
+*https://github.com/ChenYilong/CYLTabBarController*<br>
