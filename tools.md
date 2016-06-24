@@ -18,7 +18,8 @@
 *https://github.com/ChenYilong/CYLTabBarController*<br>
 -**YYKit【YYKit 是一组庞大、功能丰富的 iOS 组件。】**<br>
 *https://github.com/ibireme/YYKit*<br>
-
+-**jsonModel【标准json转model】**<br>
+*https://github.com/JSONModel/JSONModel*<br>
 
 #杂货
 -**Square Open Source【开源广场--多类开源语言】**<br>
