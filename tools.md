@@ -1,4 +1,13 @@
 #Xcode插件工具
+-**常用插件收集**<br>
+*http://www.jianshu.com/p/018e770938c2*<br>
+-**Xcode插件管理--Alcatraz **<br>
+命令行安装 curl -fsSL https://raw.github.com/alcatraz/Alcatraz/master/Scripts/install.sh|sh<br>
+*https://github.com/alcatraz/Alcatraz*<br>
+-**XAlign (代码整理)**<br>
+*https://github.com/qfish/XAlign*<br>
+-**DXXcodeConsoleUnicodePlugin (控制台中文显示) **<br>
+*https://github.com/dhcdht/DXXcodeConsoleUnicodePlugin*<br>
 -**Fuzzy Autocomplete 代码提示 (类似于 Xcode 7.3 中的代码提示)**<br>
 *https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin*<br>
 -**VVDocumenter (快速备注插件)**<br>
