@@ -2,7 +2,7 @@
 -**常用插件收集**<br>
 *http://www.jianshu.com/p/018e770938c2*<br>
 -**Xcode插件管理--Alcatraz **<br>
-命令行安装 curl -fsSL https://raw.github.com/alcatraz/Alcatraz/master/Scripts/install.sh|sh <br>
+>命令行安装 curl -fsSL https://raw.github.com/alcatraz/Alcatraz/master/Scripts/install.sh|sh <br>
 *https://github.com/alcatraz/Alcatraz*<br>
 -**XAlign (代码整理)**<br>
 *https://github.com/qfish/XAlign*<br>
