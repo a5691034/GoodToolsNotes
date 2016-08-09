@@ -29,6 +29,8 @@
 *https://github.com/ibireme/YYKit*<br>
 -**jsonModel【标准json转model】**<br>
 *https://github.com/JSONModel/JSONModel*<br>
+-**返回前一个页面 手势 **<br>
+*https://github.com/forkingdog/FDFullscreenPopGesture*<br>
 
 #杂货
 -**Square Open Source【开源广场--多类开源语言】**<br>
